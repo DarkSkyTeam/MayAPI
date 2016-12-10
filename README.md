@@ -1,2 +1,3 @@
-# MayAPI
-一个很辣鸡的McAPI
+#MayAPI
+May_Speed的API
+提供了一些奇奇怪怪的方法也有一些比较实用的方法2333
